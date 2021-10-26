@@ -1,2 +1,2 @@
 # KC
-Tugas 1 Kecerdasan Buatan
+Tugas 1 dan 2 Kecerdasan Buatan
