@@ -5,7 +5,7 @@ Muhammad Alzidani A.P (201910370311258)
 
 Tania Alvionita (201910370311258)
 
-#Deskripsi Dataset
+# Deskripsi Dataset
 Indonesia diperkaya serta dipelihara menggunakan aneka macam tanaman. Tanaman ini berguna dalam banyak hal seperti obat-obatan untuk menyembuhkan banyak penyakit serta penyakit umum. Masyarakat Indonesia umumnya mempunyai pengetahuan tradisional pada pengunaan tumbuh-tumbuhan berkhasiat obat untuk mengobati penyakit tertentu. Pengetahuan perihal tumbuhan obat, mulai dari pengenalan jenis tanaman, bagian yang digunakan, cara pengolahan hingga dengan khasiat pengobatannya merupakan kekayaan pengetahuan local dari masing-masing etnis masyarakat setempat.
 
 
